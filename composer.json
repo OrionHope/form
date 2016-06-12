@@ -1,0 +1,15 @@
+{
+    "name": "orion/form",
+    "autoload": {
+        "psr-4" : {
+            "Beaver\\" : "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Orion",
+            "email": "orion-dev@tuta.io"
+        }
+    ],
+    "require": {}
+}
